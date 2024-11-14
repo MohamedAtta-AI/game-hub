@@ -14,4 +14,4 @@ To get started with GameHub, follow these steps:
 5. Run `npm run dev` to start the web server. 
 
 
-Special thanks to Mosh Hamedani for teaching me React and building this project: https://codewithmosh.com 
+Special thanks to [Mosh Hamedani](https://codewithmosh.com ) for teaching me React and building this project
